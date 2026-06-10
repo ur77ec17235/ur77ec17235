@@ -1,174 +1,143 @@
-<h1 align="center">Võ Hồng Việt</h1>
-<p align="center">
-AI • Machine Learning • Deep Learning • Computer Vision • MLOps
-</p>
-
-<p align="center">
-I build practical AI systems, deep learning models, and software workflows with a focus on real implementation, explainability, and engineering quality.
-</p>
+<h1 align="center">Hi, I'm Việt 👋</h1>
+<h3 align="center">Building AI, GenAI, and production-ready ML systems</h3>
 
 <p align="center">
 <a href="https://github.com/ur77ec17235">
-<img src="https://img.shields.io/badge/GitHub-ur77ec17235-181717?style=for-the-badge&logo=github" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer+in+progress;Building+GenAI%2C+Deep+Learning%2C+and+MLOps+projects;Python+%7C+PyTorch+%7C+Docker+%7C+Git+%7C+Cloud" alt="Typing SVG" />
 </a>
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I am interested in building machine learning and deep learning projects that combine research ideas with practical implementation.
-My work mainly focuses on:
+- 🔭 I’m currently focused on **AI Engineering, Generative AI, Deep Learning, and MLOps**
+- 🧠 I’m building skills in **RAG systems, fine-tuning, model evaluation, CI/CD, and deployment**
+- ⚙️ My workflow includes **Python, Git, Linux, Docker, and cloud-based development**
+- 📚 I use hands-on projects to turn learning into **real, production-minded systems**
+- 🎯 My goal: become an engineer who can **design, build, evaluate, and deploy AI applications end-to-end**
+
+---
+
+## 🧭 Current Focus
+
+- **Generative AI**
+- RAG system implementation
+- Foundation models
+- Fine-tuning and evaluation
+- Responsible AI fundamentals
 
 - **Machine Learning & Deep Learning**
-- **Computer Vision**
-- **Explainable AI (XAI)**
-- **Backend Development**
-- **Testing, CI/CD, and Deployment**
+- Model tuning and evaluation
+- Deep learning architectures
+- Unsupervised learning
+- Feature engineering and forecasting
 
-I enjoy turning concepts into working systems and continuously improving both model performance and software quality.
-
----
-
-## Tech Stack
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" />
-<img src="https://img.shields.io/badge/Tekton-FD495C?style=flat-square&logo=tekton&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" />
-</p>
+- **MLOps & Deployment**
+- CI/CD for AI systems
+- Docker / containers
+- Deployment workflows
+- Cloud optimization, resilience, and performance
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🌿 MedLeafX Disease Classification</h3>
+### Languages
 <p>
-Deep learning project for medicinal plant leaf disease classification using modern CNN architectures and explainability techniques.
+<img src="https://skillicons.dev/icons?i=python,bash,java,cpp" />
 </p>
-<ul>
-<li>ResNet50, EfficientNetV2-S, ConvNeXt-Tiny</li>
-<li>Grad-CAM and t-SNE for interpretability</li>
-<li>Strong results on the AI-MedLeafX dataset</li>
-</ul>
-<p><b>Tech:</b> Python, PyTorch, Computer Vision, XAI</p>
+
+### AI / Data / ML
 <p>
-<a href="https://github.com/ur77ec17235/MedLeafX_Desease_Classification">View Repository</a>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
-</td>
-<td width="50%" valign="top">
-<h3>⚖️ COMPAS Bias Analysis</h3>
+
+### Tools & DevOps
 <p>
-A project focused on fairness, interpretability, and bias analysis in predictive modeling using Neural Additive Models.
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
-<ul>
-<li>Bias analysis in decision systems</li>
-<li>Interpretable modeling approach</li>
-<li>Ethics and explainability in AI</li>
-</ul>
-<p><b>Tech:</b> Python, Machine Learning, XAI, Fairness Analysis</p>
+
+### Learning / Exploring
 <p>
-<a href="https://github.com/ur77ec17235/COMPAS-Recidivism-Racial-Bias-with-NAM-Neural-Additive-Model-">View Repository</a>
+<img src="https://skillicons.dev/icons?i=flask,kubernetes" />
 </p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🧠 EEG Abnormality Detection</h3>
-<p>
-A healthcare-oriented AI project for detecting abnormalities in EEG data and exploring biomedical applications of machine learning.
-</p>
-<ul>
-<li>Abnormal signal pattern detection</li>
-<li>Biomedical AI application</li>
-<li>Signal-focused learning workflow</li>
-</ul>
-<p><b>Tech:</b> Python, Deep Learning, Signal Analysis</p>
-<p>
-<a href="https://github.com/ur77ec17235/EEG-Abnormally-Detection">View Repository</a>
-</p>
-</td>
-<td width="50%" valign="top">
-<h3>🚦 Traffic Sign Recognition</h3>
-<p>
-Computer vision project based on the GTSRB/GSTRB dataset, developed for traffic sign recognition with CNNs.
-</p>
-<ul>
-<li>CNN-based image classification</li>
-<li>Traffic sign recognition from real data</li>
-<li>Built as part of CS50 AI coursework</li>
-</ul>
-<p><b>Tech:</b> Python, CNNs, Computer Vision</p>
-<p>
-<a href="https://github.com/ur77ec17235/CNNs_Traffic_Recognition_CS50AI">View Repository</a>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🧪 TDD / BDD RESTful Microservice</h3>
-<p>
-A backend engineering project centered on building a RESTful API microservice with structured testing practices.
-</p>
-<ul>
-<li>Test-Driven Development (TDD)</li>
-<li>Behavior-Driven Development (BDD)</li>
-<li>Reliable and maintainable backend workflow</li>
-</ul>
-<p><b>Tech:</b> Python, Flask, Testing, TDD, BDD</p>
-<p>
-<a href="https://github.com/ur77ec17235/tdd-bdd-final-project">View Repository</a>
-</p>
-</td>
-<td width="50%" valign="top">
-<h3>⚙️ CI/CD Final Project</h3>
-<p>
-A DevOps-focused project demonstrating continuous integration and continuous delivery for a Python microservice.
-</p>
-<ul>
-<li>Automation with GitHub Actions</li>
-<li>Integrated testing workflow</li>
-<li>Pipeline with Tekton and OpenShift</li>
-</ul>
-<p><b>Tech:</b> CI/CD, GitHub Actions, Tekton, OpenShift, Python</p>
-<p>
-<a href="https://github.com/ur77ec17235/ci-cd-final-project">View Repository</a>
-</p>
-</td>
-</tr>
-</table>
 
 ---
 
-## GitHub Stats
+## 📌 Highlighted Learning Path
+
+I’m currently building toward an AI engineering profile with progress in:
+
+- **Generative AI Applications**
+- **Advanced RAG System Implementation**
+- **Applied Generative AI Development and Strategy**
+- **Specializing Foundation Models with Fine-Tuning**
+- **Machine Learning Foundations**
+- **Deep Learning & Modern Architectures**
+- **Custom Deep Learning Model Architecture**
+- **Model Tuning & Evaluation**
+- **MLOps: CI/CD, Deployment, and Performance**
+- **Production MLOps for AI Systems**
+- **Collaborative Development with Git**
+- **Cloud Optimization for Cost, Performance, and Resilience**
+
+---
+
+## 🏅 Selected Certificates
+
+- IBM — **Python for Data Science, AI & Development**
+- IBM — **Developing AI Applications with Python and Flask**
+- IBM — **Introduction to Containers w/ Docker, Kubernetes & OpenShift**
+- IBM — **Hands-on Introduction to Linux Commands and Shell Scripting**
+- IBM — **Getting Started with Git and GitHub**
+- DeepLearning.AI — **Unsupervised Learning, Recommenders, Reinforcement Learning**
+- Princeton University — **Computer Science: Algorithms, Theory, and Machines**
+- Duke University — **Data Science Math Skills**
+
+> I focus on applying these through projects, experiments, and deployable systems rather than collecting certificates alone.
+
+---
+
+## 📂 Featured Projects
+
+> Replace these with your best repositories.
+
+- **GenAI / RAG Project**
+Retrieval pipeline, prompt orchestration, evaluation, and iterative improvements
+
+- **Deep Learning Project**
+Model experimentation, tuning, training workflows, and performance analysis
+
+- **ML / Forecasting Project**
+Data preparation, feature engineering, modeling, and result interpretation
+
+- **Deployment / MLOps Project**
+Dockerized application with version control, reproducible setup, and CI/CD thinking
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ur77ec17235&show_icons=true&theme=default&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ur77ec17235&layout=compact&theme=default&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=ur77ec17235&show_icons=true&theme=github_dark&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ur77ec17235&layout=compact&theme=github_dark&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ur77ec17235&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
-## Current Focus
+## 🤝 Let’s Connect
 
-- Building stronger **portfolio-quality AI projects**
-- Improving practical knowledge in **deep learning and evaluation**
-- Strengthening **deployment, testing, and MLOps** workflows
-- Expanding work in **explainable and trustworthy AI**
+- GitHub: [github.com/ur77ec17235](https://github.com/ur77ec17235)
+- Coursera / certificates: add your strongest public certificate links here
+- LinkedIn: add when ready
 
 ---
 
-## Connect
+## ✍️ Personal Motto
 
-- GitHub: https://github.com/ur77ec17235
+> Learn deeply. Build practically. Ship thoughtfully.
