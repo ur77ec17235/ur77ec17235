@@ -3,41 +3,56 @@
 
 <p align="center">
 <a href="https://github.com/ur77ec17235">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer+in+progress;Building+GenAI%2C+Deep+Learning%2C+and+MLOps+projects;Python+%7C+PyTorch+%7C+Docker+%7C+Git+%7C+Cloud" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer+in+progress;Building+GenAI%2C+Deep+Learning%2C+and+MLOps+projects;Turning+learning+into+practical%2C+deployable+systems" alt="Typing SVG" />
 </a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Focus-Generative%20AI-111827?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Deep%20Learning-1f2937?style=for-the-badge&logo=pytorch&logoColor=ee4c2c" />
+<img src="https://img.shields.io/badge/Focus-MLOps-0f172a?style=for-the-badge&logo=docker&logoColor=2496ed" />
+<img src="https://img.shields.io/badge/Build-Python-111827?style=for-the-badge&logo=python&logoColor=facc15" />
 </p>
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
-- 🔭 I’m currently focused on **AI Engineering, Generative AI, Deep Learning, and MLOps**
-- 🧠 I’m building skills in **RAG systems, fine-tuning, model evaluation, CI/CD, and deployment**
-- ⚙️ My workflow includes **Python, Git, Linux, Docker, and cloud-based development**
-- 📚 I use hands-on projects to turn learning into **real, production-minded systems**
-- 🎯 My goal: become an engineer who can **design, build, evaluate, and deploy AI applications end-to-end**
+I’m building toward an **AI / Machine Learning Engineer** path with a strong interest in:
+
+- **Generative AI**
+- **Deep Learning**
+- **RAG systems**
+- **MLOps and deployment**
+- **production-ready AI workflows**
+
+I like turning theory into projects that are not just experimental, but **structured, reproducible, and deployable**.
 
 ---
 
-## 🧭 Current Focus
+## 🧭 Current Direction
 
-- **Generative AI**
-- RAG system implementation
-- Foundation models
-- Fine-tuning and evaluation
-- Responsible AI fundamentals
+Right now, I’m focused on growing across three layers:
 
-- **Machine Learning & Deep Learning**
-- Model tuning and evaluation
-- Deep learning architectures
-- Unsupervised learning
-- Feature engineering and forecasting
+### 1. AI / ML Foundations
+- machine learning fundamentals
+- model evaluation and tuning
+- representation learning
+- deep learning architectures
 
-- **MLOps & Deployment**
-- CI/CD for AI systems
-- Docker / containers
-- Deployment workflows
-- Cloud optimization, resilience, and performance
+### 2. Generative AI Systems
+- prompt workflows
+- retrieval-augmented generation (RAG)
+- fine-tuning foundations
+- LLM application design
+- evaluation and iteration
+
+### 3. Deployment & MLOps
+- Git / GitHub workflows
+- Linux and shell scripting
+- Docker and containers
+- CI/CD thinking
+- cloud optimization, resilience, and performance
 
 ---
 
@@ -48,72 +63,75 @@
 <img src="https://skillicons.dev/icons?i=python,bash,java,cpp" />
 </p>
 
-### AI / Data / ML
+### AI / ML
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-### Tools & DevOps
+### Tools / Infra
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
-### Learning / Exploring
+### Currently Exploring
 <p>
 <img src="https://skillicons.dev/icons?i=flask,kubernetes" />
 </p>
 
 ---
 
-## 📌 Highlighted Learning Path
+## 🧠 What I'm Building Toward
 
-I’m currently building toward an AI engineering profile with progress in:
+I’m shaping my profile around:
 
-- **Generative AI Applications**
-- **Advanced RAG System Implementation**
-- **Applied Generative AI Development and Strategy**
-- **Specializing Foundation Models with Fine-Tuning**
-- **Machine Learning Foundations**
-- **Deep Learning & Modern Architectures**
-- **Custom Deep Learning Model Architecture**
-- **Model Tuning & Evaluation**
-- **MLOps: CI/CD, Deployment, and Performance**
-- **Production MLOps for AI Systems**
-- **Collaborative Development with Git**
-- **Cloud Optimization for Cost, Performance, and Resilience**
+- **AI application development**
+- **GenAI-powered systems**
+- **deep learning experimentation**
+- **model evaluation and optimization**
+- **deployment-minded engineering**
+- **end-to-end project execution**
+
+My goal is to become someone who can:
+
+> **design, build, evaluate, and ship practical AI systems end-to-end**
 
 ---
 
-## 🏅 Selected Certificates
+## 🏅 Selected Learning Highlights
 
-- IBM — **Python for Data Science, AI & Development**
-- IBM — **Developing AI Applications with Python and Flask**
-- IBM — **Introduction to Containers w/ Docker, Kubernetes & OpenShift**
-- IBM — **Hands-on Introduction to Linux Commands and Shell Scripting**
-- IBM — **Getting Started with Git and GitHub**
-- DeepLearning.AI — **Unsupervised Learning, Recommenders, Reinforcement Learning**
-- Princeton University — **Computer Science: Algorithms, Theory, and Machines**
-- Duke University — **Data Science Math Skills**
+My recent learning path includes topics such as:
 
-> I focus on applying these through projects, experiments, and deployable systems rather than collecting certificates alone.
+- **Applied Generative AI**
+- **Advanced RAG Implementation**
+- **Foundation Models & Fine-Tuning**
+- **Machine Learning**
+- **Deep Learning**
+- **Model Tuning and Evaluation**
+- **Docker / Containers**
+- **Linux / Shell**
+- **Git & GitHub**
+- **CI/CD and MLOps**
+- **Cloud cost / performance / resilience**
+
+> I’m not just collecting certificates — I’m using them to build stronger projects and a clearer engineering direction.
 
 ---
 
-## 📂 Featured Projects
+## 📌 Featured Projects
 
-> Replace these with your best repositories.
+> I’ll update this section as I refine and pin my best repositories.
 
 - **GenAI / RAG Project**
-Retrieval pipeline, prompt orchestration, evaluation, and iterative improvements
+Building retrieval pipelines, structured prompting, and evaluation workflows
 
 - **Deep Learning Project**
-Model experimentation, tuning, training workflows, and performance analysis
+Experimenting with training, architecture choices, and performance analysis
 
 - **ML / Forecasting Project**
-Data preparation, feature engineering, modeling, and result interpretation
+Working on data preparation, feature engineering, modeling, and interpretation
 
 - **Deployment / MLOps Project**
-Dockerized application with version control, reproducible setup, and CI/CD thinking
+Turning code into reproducible, containerized, deployment-ready systems
 
 ---
 
@@ -130,14 +148,14 @@ Dockerized application with version control, reproducible setup, and CI/CD think
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect
 
 - GitHub: [github.com/ur77ec17235](https://github.com/ur77ec17235)
-- Coursera / certificates: add your strongest public certificate links here
+- Coursera: [IBM RAG and Agentic AI Professional Certificate](https://coursera.org/verify/professional-cert/U31KVRRMS8RN)
 - LinkedIn: add when ready
 
 ---
 
-## ✍️ Personal Motto
+## 🗿 Motto
 
 > Learn deeply. Build practically. Ship thoughtfully.
