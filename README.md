@@ -50,81 +50,104 @@ I enjoy turning concepts into working systems and continuously improving both mo
 
 ## Featured Projects
 
-### 🌿 MedLeafX Disease Classification
-Deep learning project for **medicinal plant leaf disease classification** using modern CNN architectures and explainability techniques.
-
-**Highlights**
-- Compared **ResNet50**, **EfficientNetV2-S**, and **ConvNeXt-Tiny**
-- Applied **Grad-CAM** and **t-SNE** for interpretability
-- Strong performance on the **AI-MedLeafX** dataset
-
-**Tech:** Python, PyTorch, Computer Vision, XAI
-🔗 https://github.com/ur77ec17235/MedLeafX_Desease_Classification
-
----
-
-### ⚖️ COMPAS Recidivism Bias Analysis with Neural Additive Model
-A project focused on **fairness, interpretability, and bias analysis** in predictive modeling.
-
-**Highlights**
-- Explores bias in algorithmic decision systems
-- Uses interpretable modeling ideas through **Neural Additive Models**
-- Connects AI performance with ethical analysis and explainability
-
-**Tech:** Python, Machine Learning, XAI, Fairness Analysis
-🔗 https://github.com/ur77ec17235/COMPAS-Recidivism-Racial-Bias-with-NAM-Neural-Additive-Model-
-
----
-
-### 🧠 EEG Abnormality Detection
-A healthcare-oriented AI project for detecting abnormalities in **EEG data**.
-
-**Highlights**
-- Reflects interest in biomedical applications of AI
-- Focuses on pattern recognition for abnormal signal detection
-- Extends machine learning into clinical and diagnostic contexts
-
-**Tech:** Python, Deep Learning, Signal Analysis
-🔗 https://github.com/ur77ec17235/EEG-Abnormally-Detection
-
----
-
-### 🚦 Traffic Sign Recognition with CNNs
-A computer vision project based on the **GTSRB/GSTRB traffic sign dataset**, developed as part of CS50 AI coursework.
-
-**Highlights**
-- Uses CNNs for visual classification
-- Detects and recognizes traffic signs from image data
-- Demonstrates a practical deep learning pipeline for recognition tasks
-
-**Tech:** Python, CNNs, Computer Vision
-🔗 https://github.com/ur77ec17235/CNNs_Traffic_Recognition_CS50AI
-
----
-
-### 🧪 TDD / BDD RESTful Microservice
-A software engineering project centered on building a **RESTful API microservice** with structured testing practices.
-
-**Highlights**
-- Applies **Test-Driven Development (TDD)**
-- Uses **Behavior-Driven Development (BDD)** scenarios
-- Emphasizes software reliability and maintainable backend design
-
-**Tech:** Python, Flask, Testing, TDD, BDD
-🔗 https://github.com/ur77ec17235/tdd-bdd-final-project
-
----
-
-### ⚙️ CI/CD Final Project
-A DevOps-focused project demonstrating **continuous integration and continuous delivery** for a Python microservice.
-
-**Highlights**
-- Automated checks using **GitHub Actions**
-- Testing integrated into the delivery workflow
-- Pipeline implementation with **Tekton** and **OpenShift**
-
-**Tech:** CI/CD, GitHub Actions, Tekton, OpenShift, Python
-🔗 https://github.com/ur77ec17235/ci-cd-final-project
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🌿 MedLeafX Disease Classification</h3>
+<p>
+Deep learning project for medicinal plant leaf disease classification using modern CNN architectures and explainability techniques.
+</p>
+<ul>
+<li>ResNet50, EfficientNetV2-S, ConvNeXt-Tiny</li>
+<li>Grad-CAM and t-SNE for interpretability</li>
+<li>Strong results on the AI-MedLeafX dataset</li>
+</ul>
+<p><b>Tech:</b> Python, PyTorch, Computer Vision, XAI</p>
+<p>
+<a href="https://github.com/ur77ec17235/MedLeafX_Desease_Classification">View Repository</a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>⚖️ COMPAS Bias Analysis</h3>
+<p>
+A project focused on fairness, interpretability, and bias analysis in predictive modeling using Neural Additive Models.
+</p>
+<ul>
+<li>Bias analysis in decision systems</li>
+<li>Interpretable modeling approach</li>
+<li>Ethics and explainability in AI</li>
+</ul>
+<p><b>Tech:</b> Python, Machine Learning, XAI, Fairness Analysis</p>
+<p>
+<a href="https://github.com/ur77ec17235/COMPAS-Recidivism-Racial-Bias-with-NAM-Neural-Additive-Model-">View Repository</a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🧠 EEG Abnormality Detection</h3>
+<p>
+A healthcare-oriented AI project for detecting abnormalities in EEG data and exploring biomedical applications of machine learning.
+</p>
+<ul>
+<li>Abnormal signal pattern detection</li>
+<li>Biomedical AI application</li>
+<li>Signal-focused learning workflow</li>
+</ul>
+<p><b>Tech:</b> Python, Deep Learning, Signal Analysis</p>
+<p>
+<a href="https://github.com/ur77ec17235/EEG-Abnormally-Detection">View Repository</a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>🚦 Traffic Sign Recognition</h3>
+<p>
+Computer vision project based on the GTSRB/GSTRB dataset, developed for traffic sign recognition with CNNs.
+</p>
+<ul>
+<li>CNN-based image classification</li>
+<li>Traffic sign recognition from real data</li>
+<li>Built as part of CS50 AI coursework</li>
+</ul>
+<p><b>Tech:</b> Python, CNNs, Computer Vision</p>
+<p>
+<a href="https://github.com/ur77ec17235/CNNs_Traffic_Recognition_CS50AI">View Repository</a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🧪 TDD / BDD RESTful Microservice</h3>
+<p>
+A backend engineering project centered on building a RESTful API microservice with structured testing practices.
+</p>
+<ul>
+<li>Test-Driven Development (TDD)</li>
+<li>Behavior-Driven Development (BDD)</li>
+<li>Reliable and maintainable backend workflow</li>
+</ul>
+<p><b>Tech:</b> Python, Flask, Testing, TDD, BDD</p>
+<p>
+<a href="https://github.com/ur77ec17235/tdd-bdd-final-project">View Repository</a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>⚙️ CI/CD Final Project</h3>
+<p>
+A DevOps-focused project demonstrating continuous integration and continuous delivery for a Python microservice.
+</p>
+<ul>
+<li>Automation with GitHub Actions</li>
+<li>Integrated testing workflow</li>
+<li>Pipeline with Tekton and OpenShift</li>
+</ul>
+<p><b>Tech:</b> CI/CD, GitHub Actions, Tekton, OpenShift, Python</p>
+<p>
+<a href="https://github.com/ur77ec17235/ci-cd-final-project">View Repository</a>
+</p>
+</td>
+</tr>
+</table>
 
 ---
 
