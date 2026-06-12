@@ -151,7 +151,7 @@ Turning code into reproducible, containerized, deployment-ready systems
 ## 🤝 Connect
 
 - GitHub: [github.com/ur77ec17235](https://github.com/ur77ec17235)
-- Coursera: [IBM RAG and Agentic AI Professional Certificate](https://coursera.org/verify/professional-cert/U31KVRRMS8RN), [IBM DevOps and Software Engineering](https://www.coursera.org/account/accomplishments/professional-cert/certificate/RABVV4XHJVYY)
+- Coursera: [IBM RAG and Agentic AI Professional Certificate](https://coursera.org/verify/professional-cert/U31KVRRMS8RN), [IBM DevOps and Software Engineering](https://coursera.org/share/788a854cb4f51f2ebb2a3bfe47999c31)
 - LinkedIn: add when ready
 
 ---
