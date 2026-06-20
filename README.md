@@ -60,7 +60,9 @@ Right now, I’m focused on growing across three layers:
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,bash,java,cpp" />
+<img src="https://skillicons.dev/icons?i=python,bash,java,cpp,go" />
+<br />
+<img src="https://img.shields.io/badge/-ArkTS-3178C6?style=flat&logo=typescript&logoColor=white" alt="ArkTS" />
 </p>
 
 ### AI / ML
@@ -71,6 +73,8 @@ Right now, I’m focused on growing across three layers:
 ### Tools / Infra
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+<br />
+<img src="https://img.shields.io/badge/-DevEco%20Studio-007DFF?style=flat&logo=huawei&logoColor=white" alt="DevEco Studio" />
 </p>
 
 ### Currently Exploring
@@ -121,17 +125,20 @@ My recent learning path includes topics such as:
 
 > I’ll update this section as I refine and pin my best repositories.
 
-- **GenAI / RAG Project**
-Building retrieval pipelines, structured prompting, and evaluation workflows
+- **[Gõ Tiếng Việt - HarmonyOS Keyboard](https://github.com/ur77ec17235/VietNamese-keyboard-On-harmony-OS)**
+A Vietnamese Input Method (Telex) for HarmonyOS / OpenHarmony built with ArkTS, supporting custom UI, clipboard management, and Python-based auto-patching scripts.
 
-- **Deep Learning Project**
-Experimenting with training, architecture choices, and performance analysis
+- **[EEG Abnormally Detection](https://github.com/ur77ec17235/EEG-Abnormally-Detection)**
+Experimenting with training, architecture choices, and performance analysis for anomaly detection in EEG data.
 
-- **ML / Forecasting Project**
-Working on data preparation, feature engineering, modeling, and interpretation
+- **[Machine Learning Specialization](https://github.com/ur77ec17235/Machine-Learning-Specialization-Coursera)**
+Solutions and notes for the Machine Learning Specialization, working on data preparation, feature engineering, modeling, and interpretation.
 
-- **Deployment / MLOps Project**
-Turning code into reproducible, containerized, deployment-ready systems
+- **[DevOps & CI/CD Projects](https://github.com/ur77ec17235/devops-capstone-project)**
+Turning code into reproducible, containerized, deployment-ready systems. Includes RESTful API microservices with automated testing using TDD, BDD, Flask, and Behave ([TDD/BDD Project](https://github.com/ur77ec17235/tdd-bdd-final-project)).
+
+- **[Deep Learning for Computer Vision](https://github.com/ur77ec17235/deep-learning-for-computer-vision)**
+Exploring deep learning architectures and computer vision applications.
 
 ---
 
