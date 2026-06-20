@@ -69,33 +69,33 @@ Right now, I’m focused on growing across three layers:
 <p>
 <img src="https://skillicons.dev/icons?i=python,bash,java,cpp,go" />
 <!-- <br /> -->
-<img src="https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/images/Ark/overview-pathway/ArkTS-icon-gaoqing.png" height="48" alt="ArkTS" />
+<img src="https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/images/Ark/overview-pathway/ArkTS-icon-gaoqing.png" height="48" alt="ArkTS" style="border-radius: 10px;" />
 </p>
 
 ### AI / ML
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 <!-- <br /> -->
-<img src="https://av-eks-lekhak.s3.amazonaws.com/media/__sized__/article_images/Blog_Feature_Images_21_DKBDaSk-thumbnail_webp-600x300.webp" height ="48"/>
-<img src="https://cdn.mgig.fr/2023/12/mga-1188ead2-w375-w1500-w750_accroche.jpg" height = "48" />
-<img src="https://pbs.twimg.com/profile_images/1755060270173429760/4WVc54_p_400x400.jpg" height = "48" />
+<img src="https://av-eks-lekhak.s3.amazonaws.com/media/__sized__/article_images/Blog_Feature_Images_21_DKBDaSk-thumbnail_webp-600x300.webp" height="48" style="border-radius: 10px;" />
+<img src="https://cdn.jim-nielsen.com/macos/512/create-ml-2023-05-22.png?rf=1024" height="48" style="border-radius: 10px;" />
+<img src="https://pbs.twimg.com/profile_images/1755060270173429760/4WVc54_p_400x400.jpg" height="48" style="border-radius: 10px;" />
 </p>
 
 ### Tools / Infra
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 <!-- <br /> -->
-<img src="https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/images/DevEcoStudiotubiao.webp" height="48" />
+<img src="https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/images/DevEcoStudiotubiao.webp" height="48" style="border-radius: 10px;" />
 <!-- <br /> -->
-<img src="https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/images/Ark/ArkUI/en/ArkUI.webp" height="48" />
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/devin.png" height ="48" />
-<img src="https://img.shields.io/badge/-MCP%20(Model%20Context%20Protocol)-101827?style=flat&logo=anthropic&logoColor=white" alt="MCP" />
+<img src="https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/images/Ark/ArkUI/en/ArkUI.webp" height="48" style="border-radius: 10px;" />
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/devin.png" height="48" style="border-radius: 10px;" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsJevp7pZ54CdQFJhKjsnhotBiQFN6Sw1OK8nMXUUwEg&s=10" height="48" style="border-radius: 10px;" />
 </p>
 
 ### Currently Exploring
 <p>
 <img src="https://skillicons.dev/icons?i=flask,kubernetes" />
-<img src="https://blog.openreplay.com/images/openclaw-open-source-ai-assistant/images/hero.png" height="48" />
+<img src="https://blog.openreplay.com/images/openclaw-open-source-ai-assistant/images/hero.png" height="48" style="border-radius: 10px;" />
 </p>
 
 ---
