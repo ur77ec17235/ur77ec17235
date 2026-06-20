@@ -88,7 +88,7 @@ Right now, I’m focused on growing across three layers:
 <img src="https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/images/DevEcoStudiotubiao.webp" height="48" style="border-radius: 10px;" />
 <!-- <br /> -->
 <img src="https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/images/Ark/ArkUI/en/ArkUI.webp" height="48" style="border-radius: 10px;" />
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/devin.png" height="48" style="border-radius: 10px;" />
+<img src="https://substackcdn.com/image/fetch/$s_!6QbX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55656ba4-ccad-45a9-bb8e-1d647606da39_400x400.jpeg" height="48" style="border-radius: 10px;" />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsJevp7pZ54CdQFJhKjsnhotBiQFN6Sw1OK8nMXUUwEg&s=10" height="48" style="border-radius: 10px;" />
 </p>
 
