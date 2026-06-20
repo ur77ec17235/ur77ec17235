@@ -20,11 +20,13 @@
 
 I’m building toward an **AI / Machine Learning Engineer** path with a strong interest in:
 
-- **Generative AI**
+- **Generative AI & Agentic Frameworks (OpenClaw)**
+- **Model Context Protocol (MCP) & Tool Calling**
 - **Deep Learning**
 - **RAG systems**
 - **MLOps and deployment**
 - **production-ready AI workflows**
+- **HarmonyOS & Mobile Development (ArkTS)**
 
 I like turning theory into projects that are not just experimental, but **structured, reproducible, and deployable**.
 
@@ -39,20 +41,25 @@ Right now, I’m focused on growing across three layers:
 - model evaluation and tuning
 - representation learning
 - deep learning architectures
+- Apple Silicon ML optimization (MLX, Create ML)
 
 ### 2. Generative AI Systems
 - prompt workflows
 - retrieval-augmented generation (RAG)
+- autonomous AI agents (OpenClaw, Devin)
+- local LLM deployment & testing (LM Studio)
+- context & tool integration (Model Context Protocol - MCP)
 - fine-tuning foundations
 - LLM application design
 - evaluation and iteration
 
-### 3. Deployment & MLOps
+### 3. Deployment, MLOps & App Dev
 - Git / GitHub workflows
 - Linux and shell scripting
 - Docker and containers
 - CI/CD thinking
 - cloud optimization, resilience, and performance
+- cross-platform and OS-level development (ArkTS, OpenHarmony)
 
 ---
 
@@ -61,25 +68,34 @@ Right now, I’m focused on growing across three layers:
 ### Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,bash,java,cpp,go" />
-<br />
-<img src="https://img.shields.io/badge/-ArkTS-3178C6?style=flat&logo=typescript&logoColor=white" alt="ArkTS" />
+<!-- <br /> -->
+<img src="https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/images/Ark/overview-pathway/ArkTS-icon-gaoqing.png" height="48" alt="ArkTS" />
 </p>
 
 ### AI / ML
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<!-- <br /> -->
+<img src="https://av-eks-lekhak.s3.amazonaws.com/media/__sized__/article_images/Blog_Feature_Images_21_DKBDaSk-thumbnail_webp-600x300.webp" height ="48"/>
+<img src="https://cdn.mgig.fr/2023/12/mga-1188ead2-w375-w1500-w750_accroche.jpg" height = "48" />
+<img src="https://pbs.twimg.com/profile_images/1755060270173429760/4WVc54_p_400x400.jpg" height = "48" />
 </p>
 
 ### Tools / Infra
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-<br />
-<img src="https://img.shields.io/badge/-DevEco%20Studio-007DFF?style=flat&logo=huawei&logoColor=white" alt="DevEco Studio" />
+<!-- <br /> -->
+<img src="https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/images/DevEcoStudiotubiao.webp" height="48" />
+<!-- <br /> -->
+<img src="https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/images/Ark/ArkUI/en/ArkUI.webp" height="48" />
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/devin.png" height ="48" />
+<img src="https://img.shields.io/badge/-MCP%20(Model%20Context%20Protocol)-101827?style=flat&logo=anthropic&logoColor=white" alt="MCP" />
 </p>
 
 ### Currently Exploring
 <p>
 <img src="https://skillicons.dev/icons?i=flask,kubernetes" />
+<img src="https://blog.openreplay.com/images/openclaw-open-source-ai-assistant/images/hero.png" height="48" />
 </p>
 
 ---
@@ -88,11 +104,13 @@ Right now, I’m focused on growing across three layers:
 
 I’m shaping my profile around:
 
-- **AI application development**
-- **GenAI-powered systems**
-- **deep learning experimentation**
+- **AI application & autonomous agent development (OpenClaw, Devin)**
+- **GenAI-powered systems & local LLM integration (LM Studio)**
+- **deep learning experimentation (PyTorch, MLX)**
+- **extending AI capabilities with external tools (MCP)**
 - **model evaluation and optimization**
 - **deployment-minded engineering**
+- **cross-platform ecosystem integrations (ArkTS)**
 - **end-to-end project execution**
 
 My goal is to become someone who can:
