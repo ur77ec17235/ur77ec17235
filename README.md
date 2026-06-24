@@ -178,6 +178,7 @@ Exploring deep learning architectures and computer vision applications.
 - GitHub: [github.com/ur77ec17235](https://github.com/ur77ec17235)
 - Coursera: [IBM RAG and Agentic AI Professional Certificate](https://coursera.org/verify/professional-cert/U31KVRRMS8RN), [IBM DevOps and Software Engineering](https://coursera.org/share/788a854cb4f51f2ebb2a3bfe47999c31)
 - LinkedIn: add when ready
+- Kaggle: [XiangFang24](https://www.kaggle.com/xiangfang24)
 
 ---
 
